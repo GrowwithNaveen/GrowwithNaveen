@@ -12,3 +12,9 @@ I am Naveen, a Product manager, growth hacker, and experimental learner
 Test badge:
 
 [![ToolJet Top Contributor](https://img.shields.io/badge/ToolJet%20Top%20Contributor-3E63DD?style=flat&link=https://www.tooljet.com/)](https://www.tooljet.com/)
+
+<div align="center">
+
+[![Sample screenshot](https://assets-global.website-files.com/6266634263b9179f76b2236e/642ea2f14ccdf8b44f4454dd_ToolJet%20logo.svg)](https://www.tooljet.com/)
+
+</div>
