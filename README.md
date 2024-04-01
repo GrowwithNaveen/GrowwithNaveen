@@ -22,7 +22,7 @@ Test badge:
 
 <div align="left">
 
-[![ToolJet Templates](https://raw.githubusercontent.com/GrowwithNaveen/GrowwithNaveen/fad64492d39f71d98e8aaeea7acd6bf814d7868b/Template%20badge%20v1.svg)](https://www.tooljet.com/)
+[![ToolJet Template Trailblazer](https://raw.githubusercontent.com/GrowwithNaveen/GrowwithNaveen/fad64492d39f71d98e8aaeea7acd6bf814d7868b/Template%20badge%20v1.svg)](https://www.tooljet.com/)
 
 </div>
 
