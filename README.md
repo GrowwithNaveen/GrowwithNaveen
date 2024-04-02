@@ -13,16 +13,12 @@ Test badge:
 
 [![ToolJet Top Contributor](https://img.shields.io/badge/ToolJet%20Top%20Contributor-3E63DD?style=flat&link=https://www.tooljet.com/)](https://www.tooljet.com/)
 
-<div align="left">
 
-[![ToolJet Templates](https://partner-assets.tooljet.com/Template-Template-Badge.svg)](https://www.tooljet.com/)
-
-</div>
 
 
 <div align="left">
 
-[![ToolJet Template Trailblazer](https://raw.githubusercontent.com/GrowwithNaveen/GrowwithNaveen/fad64492d39f71d98e8aaeea7acd6bf814d7868b/Template%20badge%20v1.svg)](https://github.com/orgs/ToolJet/projects/16/views/2)
+[![ToolJet Template Trailblazer](https://partner-assets.tooljet.com/Template-Template-Badge.svg)](https://github.com/orgs/ToolJet/projects/16/views/2)
 
 </div>
 
