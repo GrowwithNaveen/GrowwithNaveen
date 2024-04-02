@@ -15,7 +15,7 @@ Test badge:
 
 <div align="left">
 
-[![ToolJet Templates](https://assets-global.website-files.com/6266634263b9179f76b2236e/642ea2f14ccdf8b44f4454dd_ToolJet%20logo.svg)](https://www.tooljet.com/)
+[![ToolJet Templates](https://partner-assets.tooljet.com/Template-Template-Badge.svg)](https://www.tooljet.com/)
 
 </div>
 
