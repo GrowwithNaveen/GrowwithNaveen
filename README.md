@@ -9,16 +9,9 @@ I am Naveen, a Product manager, growth hacker, and experimental learner
 
 🌟 I live by Tolkien's words, "It is no bad thing to celebrate a simple life"
 
-Test badge:
-
-[![ToolJet Top Contributor](https://img.shields.io/badge/ToolJet%20Top%20Contributor-3E63DD?style=flat&link=https://www.tooljet.com/)](https://www.tooljet.com/)
-
-
-
 
 <div align="left">
 
-[![ToolJet Template Trailblazer](https://partner-assets.tooljet.com/Template-Template-Badge.svg)](https://github.com/orgs/ToolJet/projects/16/views/2)
+[![ToolJet Template Trailblazer](https://logo-badges.tooljet.com/Template-Template-Badge.svg)](https://github.com/orgs/ToolJet/projects/16/views/2)
 
 </div>
-
